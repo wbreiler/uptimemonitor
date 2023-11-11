@@ -6,11 +6,9 @@ sites:
   - name: File Sharing
     url: https://files.wbreiler.com
   - name: Web-based Emulator
-    url: https://emualtor.wbreiler.com
+    url: https://emulator.wbreiler.com
   - name: Gitea
     url: https://git.wbreiler.com
-  - name: Cobblemon Create Server
-    url: http://cobblemoncreate.scalacubes.cloud
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
