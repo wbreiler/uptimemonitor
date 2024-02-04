@@ -3,9 +3,9 @@ owner: wbreiler # Your GitHub organization or username, where this repository li
 repo: uptimemonitor # The name of this repository
 
 sites:
-  - name: Jellyfin Media Server
-    url: https://media.wbreiler.com
-  - name: Jellyfin Requests
+  - name: Coder
+    url: https://coder.wbreiler.com
+  - name: Plex Requests
     url: https://requests.wbreiler.com
   - name: Gitea
     url: https://git.wbreiler.com
