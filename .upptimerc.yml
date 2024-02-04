@@ -13,8 +13,10 @@ sites:
     url: https://emulator.wbreiler.com
   - name: CobbleCreate Server
     check: "tcp-ping"
-    url: $CCSERVER
+    url: cobblecreate.wbreiler.com
     port: 25565
+  - name: CobbleCreate Map
+    url: https://ccmap.wbreiler.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
