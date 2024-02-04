@@ -9,6 +9,12 @@ sites:
     url: https://requests.wbreiler.com
   - name: Gitea
     url: https://git.wbreiler.com
+  - name: Web-based Emulator
+    url: https://emulator.wbreiler.com
+  - name: CobbleCreate Server
+    check: "tcp-ping"
+    url: $CCSERVER
+    port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
