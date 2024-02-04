@@ -13,7 +13,7 @@ sites:
     url: https://emulator.wbreiler.com
   - name: CobbleCreate Server
     check: "tcp-ping"
-    url: cobblecmonreate.wbreiler.com
+    url: cobblemoncreate.wbreiler.com
     port: 25565
   - name: CobbleCreate Map
     url: https://ccmap.wbreiler.com
