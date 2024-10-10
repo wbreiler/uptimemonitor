@@ -15,9 +15,9 @@ sites:
     check: "tcp-ping"
     url: cobblemoncreate.wbreiler.com
     port: 25565
-  - name: CobbleCreate Map
-    url: https://ccmap.wbreiler.com
-
+  - name: PiAnsible Homepage
+    url: https://piansible.wbreiler.com
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
